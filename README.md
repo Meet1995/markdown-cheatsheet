@@ -52,7 +52,7 @@ ___Strong emphasized text___
 
     Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
-[heading-1](#heading-1 "Goto heading")
+[heading-1](#heading-1 "Goto headin")
     
     Markup: [heading-1](#heading-1 "Goto heading-1")
 
